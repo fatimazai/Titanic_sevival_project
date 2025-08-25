@@ -1,5 +1,4 @@
-# Titanic_sevival_project
-Titanic Machine Learning project using Python and scikit-learn.
+
 # Titanic_sevival_project
 Titanic Machine Learning project using Python and scikit-learn.
 # Titanic Survival Prediction 🚢
